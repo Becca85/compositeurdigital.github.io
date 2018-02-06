@@ -1,2 +1,4 @@
 remote_theme: poole/hyde
 title: Compositeur Digital Documentation
+
+theme: jekyll-theme-minimal
